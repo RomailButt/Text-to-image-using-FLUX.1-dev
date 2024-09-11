@@ -20,7 +20,8 @@ Installation
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-image-generator.git
+   git clone https://github.com/RomailButt/text-to-image-using-FLUX.1-dev.git
+   cd text-to-image-using-FLUX.1-dev
    ```
 
 2. Install the required packages:
